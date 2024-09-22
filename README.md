@@ -15,7 +15,7 @@
 
 - How to reach me **srikarchaturvedula@gmail.com**
 
-- Know about my experiences [https://www.linkedin.com/in/srikar-chaturvedula](Linkedin profile)
+- Know about my experiences [https://www.linkedin.com/in/srikar-chaturvedula]
 
 <h3 align="left">Connect with me:</h3>
 

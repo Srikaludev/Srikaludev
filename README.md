@@ -42,3 +42,5 @@
 
 </body>
 </html>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikaludev&theme=dark&layout=compact">
